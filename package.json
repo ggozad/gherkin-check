@@ -1,0 +1,5 @@
+{
+  "name": "gherkin-check",
+  "description": "pre-commit hook to check gherkin .feature files",
+  "version": "0.1.0"
+}
